@@ -1,0 +1,19 @@
+{
+    "name": "ck-boilerplate",
+    "version": "1.0.0",
+    "dependencies": {
+        "bootstrap": "http://getbootstrap.com/2.3.2/assets/bootstrap.zip",
+        "jquery": "1.10.2",
+        "angular": "1.0.8",
+        "lodash": "",
+        "angular-underscore": "",
+        "angular-ui-utils":"https://github.com/angular-ui/ui-utils.git#gh-pages",
+        "angular-ui-bootstrap":"http://github.com/angular-ui/bootstrap.git#gh-pages",
+        "jquery-zeroclipboard":"",
+        "modernizr":"",
+        "google-code-prettify":"",
+        "html5shiv":"",
+        "respond": ""
+
+    }
+}

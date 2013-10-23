@@ -11,7 +11,6 @@
         "angular-ui-bootstrap":"http://github.com/angular-ui/bootstrap.git#gh-pages",
         "jquery-zeroclipboard":"",
         "modernizr":"",
-        "google-code-prettify":"",
         "html5shiv":"",
         "respond": ""
 
